@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/kaikode22/%E6%9C%80%E5%88%9D%E3%81%AE%E3%83%91%E3%82%A4%E3%83%97%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AE%E4%BD%9C%E6%88%90/_apis/build/status%2Fkaikode22.python-sample-vscode-flask-tutorial?branchName=main)](https://dev.azure.com/kaikode22/%E6%9C%80%E5%88%9D%E3%81%AE%E3%83%91%E3%82%A4%E3%83%97%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AE%E4%BD%9C%E6%88%90/_build/latest?definitionId=1&branchName=main)
 # Python/Flask Tutorial for Visual Studio Code
 
 * This sample contains the completed program from the tutorial, make sure to visit the link: [Using Flask in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask). Intermediate steps are not included.
